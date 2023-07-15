@@ -1,6 +1,6 @@
 [submodule "finance-me-backend"]
 	path = finance-me-backend
-	url = ./finance-me-backend
+	url = https://github.com/Morzkat/Finace-me-backend.git
 [submodule "finance-me-frontend"]
 	path = finance-me-frontend
-	url = ./finance-me-frontend
+	url = https://github.com/Morzkat/Finace-me-frontend.git
